@@ -104,7 +104,7 @@ end
 puts <<-'JUDUL'
 ===============================================================
   Program Dinamis untuk Traveling Salesperson Problem (TSP)
-            Menggunakan Algoritma Held-Karp
+                13523041 - Hanif Kalyana Aditya
 ===============================================================
 JUDUL
 
