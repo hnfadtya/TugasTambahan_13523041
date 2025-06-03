@@ -17,7 +17,7 @@ The program created is a solution for the Traveling Salesman Problem (TSP) using
 ## Contributors
 |   NIM    |                  Nama                  |
 | :------: | :------------------------------------: |
-| 13522041 |          Hanif Kalyana Aditya          |
+| 13523041 |          Hanif Kalyana Aditya          |
 
 
 ## Requirements Program
